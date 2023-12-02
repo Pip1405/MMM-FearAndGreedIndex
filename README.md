@@ -14,7 +14,7 @@ cd ~/MagicMirror/modules
 git clone https://github.com/YourGithubUsername/MMM-FearAndGreedIndex.git
 
 
-Configuration
+## Configuration
 To configure the module, you need to add the following configuration block to the modules array in the config/config.js file:
 
 {
@@ -28,7 +28,7 @@ To configure the module, you need to add the following configuration block to th
 
 
 
-Usage
+## Usage
 The module will display two indices:
 
 Traditional Fear and Greed Index: Represents the sentiment in traditional markets.
@@ -43,12 +43,12 @@ Red: High greed (value > 75)
 
 
 
-Troubleshooting
+## Troubleshooting
 If you encounter any issues with the module, first check the logs for any error messages:
 pm2 logs mm
 If you cannot resolve the issue, please open an issue on the GitHub repository with a detailed description of the problem and any relevant logs.
 
-Contributing
+## Contributing
 If you have suggestions for improvements or enhancements, feel free to fork the repository and submit a pull request with your changes.
 
 License
