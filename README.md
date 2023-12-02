@@ -2,6 +2,9 @@
 
 The `MMM-FearAndGreedIndex` is a module for MagicMirror² that displays the Fear and Greed Index for both traditional markets and cryptocurrency markets. This index is a measure of market sentiment, with lower values indicating fear and higher values indicating greed.
 
+<img width="575" alt="Bildschirmfoto 2023-12-02 um 13 18 37" src="https://github.com/Pip1405/MMM-FearAndGreedIndex/assets/131299882/460b8133-aeeb-452f-bb89-2db95908060a">
+
+
 ## Installation
 
 Navigate to your MagicMirror's `modules` folder and execute the following commands:
