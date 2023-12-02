@@ -11,7 +11,7 @@ Navigate to your MagicMirror's `modules` folder and execute the following comman
 
 ```bash
 cd ~/MagicMirror/modules
-git clone https://github.com/YourGithubUsername/MMM-FearAndGreedIndex.git
+git clone https://github.com/Pip1405/MMM-FearAndGreedIndex.git
 ```
 
 ## Configuration
