@@ -16,7 +16,7 @@ git clone https://github.com/YourGithubUsername/MMM-FearAndGreedIndex.git
 
 ## Configuration
 To configure the module, you need to add the following configuration block to the modules array in the config/config.js file:
-
+```bash
 {
     module: "MMM-FearAndGreedIndex",
     position: "top_left", // This can be any of the regions, adjust to your liking.
@@ -25,7 +25,7 @@ To configure the module, you need to add the following configuration block to th
         filename: "data.json" // The filename where the index data is stored.
     }
 },
-
+```
 
 
 ## Usage
