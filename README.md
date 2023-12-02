@@ -12,7 +12,7 @@ Navigate to your MagicMirror's `modules` folder and execute the following comman
 ```bash
 cd ~/MagicMirror/modules
 git clone https://github.com/YourGithubUsername/MMM-FearAndGreedIndex.git
-
+```
 
 ## Configuration
 To configure the module, you need to add the following configuration block to the modules array in the config/config.js file:
